@@ -1,0 +1,12 @@
+> library('biom')
+> data <- read_biom('Subramanian_et_al_otu_table.biom')
+
+> filter_otus_from_otu_table.py -i Subramanian_et_al_otu_table.biom -o otu_table_over_onetenthpercent.biom --min_count_fraction=0.001
+
+> filter_samples_from_otu_table.py -i otu_table_over_onepercent.biom -o only_Healthy_Singletons.biom -m ../Subramanian_et_al_mapping_file.txt -s Health_Analysis_Groups:"Healthy Singletons"
+
+> filter_samples_from_otu_table.py -i otu_table_over_onetenthpercent.biom -o only_Healthy_Singletons_onetenthpercent.biom -m ../Subramanian_et_al_mapping_file.txt -s Health_Analysis_Groups:"Healthy Singletons"
+
+> single_rarefaction.py -i only_Healthy_Singletons_onetenthpercent.biom -o only_Healthy_Singletons_onetenthpercent_d2000.biom -d 2000
+
+> supervised_learning.py -i only_Healthy_Singletons_onetenthpercent_d2000.biom -m ../Subramanian_et_al_mapping_file.txt -c age_in_months -o out_rarefied_tables_cv10_sweep -e cv10 -w sl_cv10_sweep.txtls -n 10000
