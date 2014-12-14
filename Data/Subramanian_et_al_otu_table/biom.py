@@ -1,4 +1,5 @@
 import numpy as np
-import biom
+from biom import load_table
 
-table_test = biom.load_table('only_Healthy_Singletons.biom')
+table_test = load_table('only_Healthy_Singletons.biom')
+print(table_test)
