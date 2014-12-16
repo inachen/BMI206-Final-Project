@@ -1,0 +1,30 @@
+12 Singletons:
+['Bgsng7052', 'Bgsng7114', 'Bgsng7178', 'Bgsng7106', 'Bgsng7090', 'Bgsng7173', 'Bgsng7177', 'Bgsng7192', 'Bgsng7149', 'Bgsng7202', 'Bgsng7063', 'Bgsng7142']
+Running Random Forest
+12 Singletons:
+['Bgsng7090', 'Bgsng8064', 'Bgsng7177', 'Bgsng7204', 'Bgsng7131', 'Bgsng7178', 'Bgsng7063', 'Bgsng7082', 'Bgsng7128', 'Bgsng7173', 'Bgsng7155', 'Bgsng7150']
+Running Random Forest
+12 Singletons:
+['Bgsng7155', 'Bgsng7192', 'Bgsng7052', 'Bgsng7177', 'Bgsng7082', 'Bgsng7202', 'Bgsng7114', 'Bgsng8169', 'Bgsng8064', 'Bgsng7150', 'Bgsng7090', 'Bgsng7178']
+Running Random Forest
+12 Singletons:
+['Bgsng7035', 'Bgsng7071', 'Bgsng7192', 'Bgsng7149', 'Bgsng8169', 'Bgsng7173', 'Bgsng7131', 'Bgsng7052', 'Bgsng7106', 'Bgsng7178', 'Bgsng7090', 'Bgsng7177']
+Running Random Forest
+12 Singletons:
+['Bgsng7052', 'Bgsng7090', 'Bgsng7114', 'Bgsng7155', 'Bgsng7096', 'Bgsng7071', 'Bgsng7018', 'Bgsng7082', 'Bgsng7204', 'Bgsng7192', 'Bgsng7142', 'Bgsng7177']
+Running Random Forest
+12 Singletons:
+['Bgsng7202', 'Bgsng7131', 'Bgsng7128', 'Bgsng7142', 'Bgsng7115', 'Bgsng7071', 'Bgsng7090', 'Bgsng7177', 'Bgsng7106', 'Bgsng7150', 'Bgsng7149', 'Bgsng8169']
+Running Random Forest
+12 Singletons:
+['Bgsng8064', 'Bgsng7018', 'Bgsng7150', 'Bgsng7063', 'Bgsng7142', 'Bgsng8169', 'Bgsng7178', 'Bgsng7106', 'Bgsng7192', 'Bgsng7149', 'Bgsng7173', 'Bgsng7128']
+Running Random Forest
+12 Singletons:
+['Bgsng7090', 'Bgsng7150', 'Bgsng7115', 'Bgsng7155', 'Bgsng7114', 'Bgsng7052', 'Bgsng7106', 'Bgsng7204', 'Bgsng7096', 'Bgsng7149', 'Bgsng7192', 'Bgsng7071']
+Running Random Forest
+12 Singletons:
+['Bgsng7128', 'Bgsng7052', 'Bgsng8064', 'Bgsng7192', 'Bgsng7106', 'Bgsng7090', 'Bgsng7150', 'Bgsng7115', 'Bgsng7114', 'Bgsng7178', 'Bgsng7096', 'Bgsng7082']
+Running Random Forest
+12 Singletons:
+['Bgsng7071', 'Bgsng7192', 'Bgsng7142', 'Bgsng8169', 'Bgsng7090', 'Bgsng7063', 'Bgsng7202', 'Bgsng7177', 'Bgsng7096', 'Bgsng7035', 'Bgsng7106', 'Bgsng7082']
+Running Random Forest
